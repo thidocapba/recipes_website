@@ -1,1 +1,1 @@
-# recipes_website
+# HTML & CSS Project Tutorial - Build a Recipes Website
